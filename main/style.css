@@ -18,6 +18,7 @@ ul {
     margin: 0 auto;
     max-width: 1200px; /* 최대 너비 지정 */
     width: 100%; /* 유동적인 너비 설정 */
+    background-color: yellow;
 }
 
 /*헤더*/
